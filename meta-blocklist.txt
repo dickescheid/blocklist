@@ -1,0 +1,54 @@
+! Meta / Facebook tracking blocklist
+! Host and endpoint rules intended for AdGuard
+
+0.0.0.0 meta.ai
+0.0.0.0 ai.meta.com
+0.0.0.0 api.meta.ai
+0.0.0.0 graph.meta.ai
+0.0.0.0 edge-meta.ai
+
+! Meta / Facebook tracking
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 graph.whatsapp.com
+0.0.0.0 b-graph.facebook.com
+0.0.0.0 b-graph.instagram.com
+
+! Meta pixel + analytics
+||facebook.com/tr^
+||facebook.com/ajax^
+||facebook.com/analytics^
+||facebook.com/impression.php^
+||facebook.com/collect^
+||facebook.com/tracking^
+
+! Meta CDN
+0.0.0.0 fbcdn.net
+0.0.0.0 fbcdn.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 staticxx.facebook.com
+0.0.0.0 scontent.xx.fbcdn.net
+
+! WhatsApp tracking
+0.0.0.0 whatsapp.net
+||whatsapp.com/analytics^
+||whatsapp.com/tracking^
+||web.whatsapp.com/tracking^
+
+! Instagram tracking
+||instagram.com/analytics^
+||instagram.com/tracking^
+0.0.0.0 i.instagram.com
+0.0.0.0 l.instagram.com
+
+! Meta business + ads
+0.0.0.0 business.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 creative.ak.fbcdn.net
+
+! Meta telemetry
+0.0.0.0 events.meta.com
+0.0.0.0 metrics.meta.com
+0.0.0.0 telemetry.meta.com
