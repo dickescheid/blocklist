@@ -1,0 +1,84 @@
+# ============================
+# META AI
+# ============================
+0.0.0.0 meta.ai
+0.0.0.0 ai.meta.com
+0.0.0.0 api.meta.ai
+0.0.0.0 graph.meta.ai
+0.0.0.0 edge-meta.ai
+
+# ============================
+# FACEBOOK TRACKING
+# ============================
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 b-graph.facebook.com
+0.0.0.0 facebook.com/tr
+0.0.0.0 facebook.com/collect
+0.0.0.0 facebook.com/impression.php
+0.0.0.0 facebook.com/ajax/analytics
+0.0.0.0 facebook.com/analytics
+
+# ============================
+# INSTAGRAM TRACKING
+# ============================
+0.0.0.0 graph.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 l.instagram.com
+0.0.0.0 instagram.com/analytics
+0.0.0.0 instagram.com/tracking
+
+# ============================
+# WHATSAPP TRACKING
+# ============================
+0.0.0.0 graph.whatsapp.com
+0.0.0.0 whatsapp.com/analytics
+0.0.0.0 whatsapp.com/tracking
+
+# ============================
+# META PIXEL + ADS
+# ============================
+0.0.0.0 connect.facebook.net/en_US/fbevents.js
+0.0.0.0 business.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 creative.ak.fbcdn.net
+
+# ============================
+# META TELEMETRY
+# ============================
+0.0.0.0 events.meta.com
+0.0.0.0 metrics.meta.com
+0.0.0.0 telemetry.meta.com
+
+# ============================
+# GOOGLE TRACKING (SAFE)
+# ============================
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 analytics.google.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 partner.googleadservices.com
+
+# ============================
+# TIKTOK TRACKING
+# ============================
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 api.tiktokv.com/track
+0.0.0.0 api.tiktokv.com/analytics
+0.0.0.0 business.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 mcs.tiktok.com
+0.0.0.0 pixel.tiktok.com
+
+# ============================
+# TIKTOK TELEMETRY
+# ============================
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 api2.musical.ly/track
+0.0.0.0 api2.musical.ly/analytics
